@@ -1,0 +1,122 @@
+{
+  "title": {
+    "ar": " إفطار صائم",
+    "en": " Page Title ",
+    "tr": "Page Title in turkish"
+  },
+  "category": "general",
+  "body": [
+    {
+      "id": "a5c540ac8ada3d9b8f8a551d",
+      "type": "article-with-img",
+      "background": "",
+      "img": "/images/breakfast.jpeg",
+      "children": [
+        {
+          "id": "659d897985ef1598e2289e12",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": " في وقت عصيب نرى فيه الأطفال والنساء والمرضى  في غزة جوعى، يعانون من سوء التغذية ونقص الماء والغذاء، بسبب حرب التجويع والحصار هناك والتضييق الممنهج على  المرابطين الصامدين في القدس المباركة، وامتثالا لوصية الرسول صل الله عليه وسلم:\n«‏مَنْ فَطَّرَ صَائمًا، كان لَهُ مِثْلُ أَجْرِهِ غَيْرَ أَنَّهُ لاَ يَنْقُصُ مِنْ أجْر الصَّائمِ شيء\"\n\t         نسعي لإطعام 15000 صائم في فلسطين، بقيمة 10$ للصائم الواحد\nفطر صائما \n10$. ",
+            "en": "In an increasingly complex world, technology has become an integral part of our daily lives. It has changed the way we live, work, and communicate with others. Whether through the smartphones we carry in our pockets or the smart systems that manage our homes, technology plays a significant role in improving our lives and making our daily tasks easier. But with these benefits come new challenges that require us to be more aware and conscious of technology's impact on our lives. ",
+            "tr": "Giderek karmaşıklaşan bir dünyada, teknoloji günlük hayatımızın ayrılmaz bir parçası haline geldi. Yaşam şeklimizi, çalışma tarzımızı ve başkalarıyla iletişim kurma yöntemlerimizi değiştirdi. Cebimizde taşıdığımız akıllı telefonlar ya da evlerimizi yöneten akıllı sistemler aracılığıyla, teknoloji hayatımızı iyileştirmede ve günlük görevlerimizi kolaylaştırmada önemli bir rol oynuyor. Ancak bu faydalarla birlikte, teknolojinin hayatımız üzerindeki etkisinin daha fazla farkında olmamızı gerektiren yeni zorluklar da ortaya çıkıyor."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "6feb93f0c2fba8b306b063f7",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "b2f31771bf0df2d121809a73",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": "مشاريع اخري",
+            "en": "Title ",
+            "tr": "Sample Title in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "1c544d40969bbf97f031d2e9",
+      "type": "card-wrapper",
+      "title": "",
+      "children": [
+        {
+          "id": "747834d5b9adb948a7ce935b",
+          "img": "/images/theen.jpg",
+          "type": "project-card",
+          "title": "كيس طحين",
+          "hoverColor": "bg-customOrange",
+          "overlayColor": "bg-black",
+          "route": "/project?p=keestheen"
+        },
+        {
+          "id": "a9c759426c5b56f982eba30c",
+          "img": "/images/orphins.png",
+          "type": "project-card",
+          "title": "كفالة يتيم",
+          "hoverColor": "bg-customOrange",
+          "overlayColor": "bg-black",
+          "route": "/project?p=kfaletyteem"
+        },
+        {
+          "id": "d9ec42f66af01d5166123bd9",
+          "img": "/images/breakfast.jpeg",
+          "type": "project-card",
+          "title": " إفطار صائم",
+          "hoverColor": "bg-customOrange",
+          "overlayColor": "bg-black",
+          "route": "/project?p=iftarsaem"
+        },
+        {
+          "id": "e1b1aec1e6d0c5329e99d0ae",
+          "img": "/images/sla.JPG",
+          "type": "project-card",
+          "title": "سلة مقدسية ( سلة غذائية )",
+          "hoverColor": "bg-customOrange",
+          "overlayColor": "bg-black",
+          "route": "/project?p=slamkdseya"
+        },
+        {
+          "id": "5bc36ff67123120518c969ea",
+          "img": "/images/eid.jpg",
+          "type": "project-card",
+          "title": "كسوة العيد",
+          "hoverColor": "bg-customOrange",
+          "overlayColor": "bg-black",
+          "route": "/project?p=kswteid"
+        },
+        {
+          "id": "2ea3bfb72767b54fd0c9def0",
+          "img": "/images/zakat.jpg",
+          "type": "project-card",
+          "title": " زكاة الفطر",
+          "hoverColor": "bg-customOrange",
+          "overlayColor": "bg-black",
+          "route": "/project?p=zkatfitr"
+        }
+      ]
+    }
+  ]
+}

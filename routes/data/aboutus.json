@@ -1,0 +1,387 @@
+{
+  "title": {
+    "ar": " من نحن",
+    "en": "About US",
+    "tr": " Hakkımızda"
+  },
+  "category": "general",
+  "body": [
+    {
+      "id": "589ba53ca03edd91389be0f3",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "205def88b89d9bb0cffae9c1",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "نساء الأقصى \" مؤسسة نسائية عالمية، مقرها في إسطنبول، تعمل على تفعيل دور نساء الأمة وحرائر العالم لدعم صمود المرأة المقدسية\".",
+            "en": "Women of Al-Aqsa is “an international women’s organization, based in Istanbul, that works to activate the role of the nation’s women and the women of the world to support the steadfastness of Jerusalemite women.”",
+            "tr": "Mescid-i Aksa Kadınları, \"Kudüslü kadınların kararlılığını desteklemek için ülkedeki kadınların ve dünya kadınlarının rolünü harekete geçirmek için çalışan, merkezi İstanbul'da bulunan uluslararası bir kadın örgütüdür.\""
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "a39ec627ca91943c141f4a2d",
+      "type": "article-with-img",
+      "background": "",
+      "img": "/images/vision.png",
+      "children": [
+        {
+          "id": "b7899da61b015fb17ac4d48f",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": "رؤيتنا",
+            "en": "Our Vision ",
+            "tr": "Vizyonumuz"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "6bc7fadaef2b548a10db6cf4",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "الريادة في دعم صمود المرأة المقدسية.",
+            "en": "Leadership in supporting the steadfastness of Jerusalemite women.",
+            "tr": "Kudüslü kadınların kararlılığını desteklemede liderlik."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "d7cd75118340421ea6617518",
+      "type": "article-with-img",
+      "background": "",
+      "img": "/images/mail.png",
+      "children": [
+        {
+          "id": "9972011d39eeb72eabd9b006",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": "رسالتنا",
+            "en": "Our Message ",
+            "tr": "Mesajımız"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "85023d796a72ad073fe28e74",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "حشد نساء الأمة وحرائر العالم واستثمار طاقاتهنّ في مختلف المجالات وتوجيهها لدعم صمود المرأة المقدسية ومساندتها.",
+            "en": "Mobilizing the women of the nation and the women of the world and investing their energies in various fields and directing them to support the steadfastness and support of Jerusalemite women.",
+            "tr": "Milletin kadınlarını ve dünya kadınlarını harekete geçirmek ve enerjilerini çeşitli alanlara yatırmak ve onları Kudüslü kadınların kararlılığını ve desteğini desteklemeye yönlendirmek."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "85023d796a72ad073fe28425",
+      "type": "timeline",
+      "title": {
+        "ar": "اهدافنا",
+        "en": "3_ Building local, Arab and international partnerships",
+        "tr": " Hakkımızda"
+      },
+      "data": [
+        {
+          "ar": "إبراز دور المرأة المقدسية في مواجهة الاحتلال الصهيوني.",
+          "en": "",
+          "tr": ""
+        },
+        {
+          "ar": " حشد نساء الأمة وحرائر العالم واستثمار طاقاتهنّ وتوجيه جهودهن لدعم صمود المرأة المقدسية",
+          "en": "3_ Building local, Arab and international partnerships",
+          "tr": " Hakkımızda"
+        },
+        {
+          "ar": "زيادة وعي نساء الأمة وحرائر العالم بمعاناة المرأة المقدسية، وتعزيز مشاركتهنّ في مختلف مجالات الدعم والنصرة.",
+          "en": "1_ Building the capabilities and developing the skills of Jerusalemite women and the women who support them",
+          "tr": " Hakkımızda"
+        },
+        {
+          "ar": "ترميز بعض نساء الأمة وحرائر العالم من أجل إيصال الرواية الحقيقية لمعاناة المرأة المقدسية إلى العالم",
+          "en": "",
+          "tr": " Hakkımızda"
+        },
+        {
+          "ar": " دعم صمود المرأة المقدسية وتثبيتها في القدس والمسجد الأقصى.",
+          "en": "New English Text",
+          "tr": "Yeni Türkçe Metin"
+        }
+      ]
+    },
+    {
+      "id": "145790188c6694f7c97a4f7e",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "items-center",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "eca1e213ecdd40a7d8859b16",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": " مجالات عملنا",
+            "en": "Our areas of work",
+            "tr": "Çalışma alanlarımız"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "3f959c342c66170d77041285",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "1_ بناء قدرات وتطوير مهارات المرأة المقدسية والمرأة الداعمة لها",
+            "en": "1_ Building the capabilities and developing the skills of Jerusalemite women and the women who support them",
+            "tr": "1_ Kudüslü kadınların ve onları destekleyen kadınların yeteneklerini geliştirmek ve becerilerini geliştirmek"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "9b77464dd3e4616dff1db067",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "2_ تبني المشاريع والمبادرات الداعمة للمرأة المقدسية.",
+            "en": "2_ Adopting projects and initiatives supporting Jerusalemite women.",
+            "tr": "2_ Kudüslü kadınları destekleyen proje ve girişimlerin benimsenmesi."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "ad700336a0394f7540934cf8",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "3_ بناء الشراكات المحلية والعربية والدولية",
+            "en": "3_ Building local, Arab and international partnerships",
+            "tr": "3_ Yerel, Arap ve uluslararası ortaklıklar kurmak"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "d1f7f8c21b9d238e31ea476c",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "5a641e8520dc7f1f042f8f93",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": "مشاريعنا",
+            "en": "Projects",
+            "tr": "Projeler"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "2a9c05509d44ed238059f5a1",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": " نحرص في مؤسسة \" نساء الأقصى\" على الوقوف إلى جانب المرأة المقدسية في دفاعها عن القدس والمسجد الأقصى وتقديم كافة أنواع الدعم لها، وذلك من خلال تنفيذ عدة مشاريع، نحاول من خلالها تلبية حاجاتها، وتمكينها وإسنادها بما يعينها على الصمود في جميع جوانب حياتها الاجتماعية والاقتصادية والمعرفية وغيرها.",
+            "en": "We at the “Women of Al-Aqsa” Foundation are keen to stand alongside Jerusalemite women in their defense of Jerusalem and Al-Aqsa Mosque and to provide them with all kinds of support, through the implementation of several projects, through which we try to meet their needs, empower them and support them in a way that helps them withstand all aspects of their social and economic life. Cognitive and others.",
+            "tr": "Bizler, Mescid-i Aksa'nın Kadınları Vakfı olarak, Kudüs'ü ve Mescid-i Aksa'yı savunmak için Kudüslü kadınların yanında yer almaya ve onlara çeşitli projelerin hayata geçirilmesi yoluyla her türlü desteği sağlamaya çalışıyoruz. ihtiyaçlarını karşılayın, onları güçlendirin ve sosyal ve ekonomik yaşamlarının tüm yönlerine dayanmalarına yardımcı olacak şekilde onları destekleyin. Bilişsel ve diğerleri."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "8403df955cab7f752606974e",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "c9a62e9c1317a6da48eb7ae5",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": " قيمنا",
+            "en": "Our Values ",
+            "tr": "Değerlerimiz"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "f8573889af326630a06345e7",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "الإخلاص",
+            "en": "Sincerity",
+            "tr": "Samimiyet"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "11d66f19b5f32b2580571f74",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "التعاون",
+            "en": "cooperation",
+            "tr": "işbirliği"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "f85cfdb08e740afc167c6351",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "المسؤولية",
+            "en": "Responsibility",
+            "tr": "Sorumluluk"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "81285ade432f6f9c8096144e",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "الأمانة",
+            "en": "Honesty",
+            "tr": "Dürüstlük"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "ad0f5bf3c2fcf49d92d80f20",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "الصدق",
+            "en": "Honesty",
+            "tr": "Dürüstlük"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

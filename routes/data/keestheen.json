@@ -1,0 +1,362 @@
+{
+  "title": {
+    "ar": "مشروع كيس الطحين",
+    "en": " Page Title ",
+    "tr": "Page Title in turkish"
+  },
+  "category": "general",
+  "body": [
+    {
+      "id": "b249fa346efc3b8fe1808d6c",
+      "type": "article-with-img",
+      "background": "",
+      "img": "/images/theen.jpg",
+      "children": [
+        {
+          "id": "527e0b67828904a1fe660ae1",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": "تعريف المشروع",
+            "en": "Title ",
+            "tr": "Sample Title in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "c790ce122942c5b1b7ba6c10",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": " يُعنى بتوفير أدني مقومات المعيشة الكريمة وهو  الطحين الذي يصنع منه أهل غزة وجباتهم الأساسية من الخبز في ظل التجويع الممنهج الذي يمارسه المحتل الصهيوني في مناطق الشمال والجنوب  داخل قطاع غزة",
+            "en": "In an increasingly complex world, technology has become an integral part of our daily lives. It has changed the way we live, work, and communicate with others. Whether through the smartphones we carry in our pockets or the smart systems that manage our homes, technology plays a significant role in improving our lives and making our daily tasks easier. But with these benefits come new challenges that require us to be more aware and conscious of technology's impact on our lives. ",
+            "tr": "Giderek karmaşıklaşan bir dünyada, teknoloji günlük hayatımızın ayrılmaz bir parçası haline geldi. Yaşam şeklimizi, çalışma tarzımızı ve başkalarıyla iletişim kurma yöntemlerimizi değiştirdi. Cebimizde taşıdığımız akıllı telefonlar ya da evlerimizi yöneten akıllı sistemler aracılığıyla, teknoloji hayatımızı iyileştirmede ve günlük görevlerimizi kolaylaştırmada önemli bir rol oynuyor. Ancak bu faydalarla birlikte, teknolojinin hayatımız üzerindeki etkisinin daha fazla farkında olmamızı gerektiren yeni zorluklar da ortaya çıkıyor."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "8a8bd6ebc91f0584a9d82a89",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-xl",
+          "content": {
+            "ar": "الهدف من المشروع",
+            "en": "sample Text ",
+            "tr": "Sample Text in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "724d7b01081ba2d73b73b81b",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "توفير أكثر من 5000  كيس طحين وتوزيعه داخل  قطاع غزة ، ودعم العديد من النساء النازحات لصناعة المخبوزات والمعجنات وتوزيعها على الصائمين المتضررين في الحرب لدعم",
+            "en": "sample Text ",
+            "tr": "Sample Text in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "5685296c230e17eae3679206",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-xl",
+          "content": {
+            "ar": " أشكال التبرع والمساهمة في  تنفيذ الحملة ",
+            "en": "sample Text ",
+            "tr": "Sample Text in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "2b703cfe7b0ce4c44584dd3f",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "- التبرع بثمن كيس طحين بقيمة 26  $  ",
+            "en": "sample Text ",
+            "tr": "Sample Text in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "a1d18cc904fc98caa3a57b19",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "             - مشاركة المنظمات والشخصيات الاعتبارية  وأصحاب الأموال والراغبين بالأجور المضاعفة  مع إمكانية عقد الاجتماعات وبناء العقود  والشراكات الداخلية والخارجية للمهتمين .  ",
+            "en": "sample Text ",
+            "tr": "Sample Text in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "01bd59ceab9ad157a751a96b",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "-  التبرع بصناعة كيس طحين وتوزيعه على النازحين بقيمة 300$ . ",
+            "en": "sample Text ",
+            "tr": "Sample Text in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "35471d8207d715a607480e46",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-xl",
+          "content": {
+            "ar": " ألية تنفيذ المشروع",
+            "en": "sample Text ",
+            "tr": "Sample Text in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "7d9dd5ab7d44c35865a5fc67",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": " سيتم تنفيذ المشروع عن طريق  الفريق الميداني خاص بمؤسسة نساء الأقصى بالتعاون مع المؤسسات الطبية داخل قطاع غزة .",
+            "en": "sample Text ",
+            "tr": "Sample Text in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "54b54f15a79692a4dc4d1ab7",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-base",
+          "content": {
+            "ar": "اولا",
+            "en": "sample Text ",
+            "tr": "Sample Text in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": [
+            {
+              "id": "134d5d2f6d810fa8ff4462c7",
+              "type": "text",
+              "color": "text-amber-900",
+              "hoverColor": "",
+              "layout": "",
+              "size": "",
+              "content": {
+                "ar": "توزيع الدقيق  في مناطق الشمال وأماكن النزوح في غزة . ",
+                "en": "sample Text ",
+                "tr": "Sample Text in Turkish"
+              },
+              "weight": "font-lg",
+              "isLink": false,
+              "link": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3f5e1285625e7a40b3de3113",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-base",
+          "content": {
+            "ar": "ثانيا",
+            "en": "sample Text ",
+            "tr": "Sample Text in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": [
+            {
+              "id": "3231e7e6e99f8206f4450268",
+              "type": "text",
+              "color": "text-amber-900",
+              "hoverColor": "",
+              "layout": "",
+              "size": "",
+              "content": {
+                "ar": "توزيع الدقيق مخبوزا بإنتاج المعجنات والمخبوزات في مناطق الشمال وأماكن النزوح . ",
+                "en": "sample Text ",
+                "tr": "Sample Text in Turkish"
+              },
+              "weight": "font-lg",
+              "isLink": false,
+              "link": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "bc633a87eda28ab366594810",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-lg",
+          "content": {
+            "ar": "التكاليف العامة لمشروع كيس الطحين قيمته 59680$.",
+            "en": "sample Text ",
+            "tr": "Sample Text in Turkish"
+          },
+          "weight": "font-semibold",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "6feb93f0c2fba8b306b063f7",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "b2f31771bf0df2d121809a73",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": "مشاريع اخري",
+            "en": "Title ",
+            "tr": "Sample Title in Turkish"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "1c544d40969bbf97f031d2e9",
+      "type": "card-wrapper",
+      "title": "",
+      "children": [
+        {
+          "id": "747834d5b9adb948a7ce935b",
+          "img": "/images/theen.jpg",
+          "type": "project-card",
+          "title": "كيس طحين",
+          "hoverColor": "bg-customOrange",
+          "overlayColor": "bg-black",
+          "route": "/project?p=keestheen"
+        },
+        {
+          "id": "a9c759426c5b56f982eba30c",
+          "img": "/images/orphins.png",
+          "type": "project-card",
+          "title": "كفالة يتيم",
+          "hoverColor": "bg-customOrange",
+          "overlayColor": "bg-black",
+          "route": "/project?p=kfaletyteem"
+        },
+        {
+          "id": "d9ec42f66af01d5166123bd9",
+          "img": "/images/breakfast.jpeg",
+          "type": "project-card",
+          "title": " إفطار صائم",
+          "hoverColor": "bg-customOrange",
+          "overlayColor": "bg-black",
+          "route": "/project?p=iftarsaem"
+        },
+        {
+          "id": "e1b1aec1e6d0c5329e99d0ae",
+          "img": "/images/sla.JPG",
+          "type": "project-card",
+          "title": "سلة مقدسية ( سلة غذائية )",
+          "hoverColor": "bg-customOrange",
+          "overlayColor": "bg-black",
+          "route": "/project?p=slamkdseya"
+        },
+        {
+          "id": "5bc36ff67123120518c969ea",
+          "img": "/images/eid.jpg",
+          "type": "project-card",
+          "title": "كسوة العيد",
+          "hoverColor": "bg-customOrange",
+          "overlayColor": "bg-black",
+          "route": "/project?p=kswteid"
+        },
+        {
+          "id": "2ea3bfb72767b54fd0c9def0",
+          "img": "/images/zakat.jpg",
+          "type": "project-card",
+          "title": " زكاة الفطر",
+          "hoverColor": "bg-customOrange",
+          "overlayColor": "bg-black",
+          "route": "/project?p=zkatfitr"
+        }
+      ]
+    }
+  ]
+}

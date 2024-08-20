@@ -1,0 +1,121 @@
+{
+    "title": {
+      "ar": "تواصل معنا",
+      "en": "Contact US",
+      "tr": "Bize Ulaşın"
+    },
+    "category": "general",
+    "body": [
+      {
+        "id": "bbb9f09ac34a1594d9d1a815",
+        "type": "simple-article",
+        "background": "/images/kampanya_bg.png",
+        "layout": "",
+        "spacing": "space-y-2",
+        "children": [
+          {
+            "id": "9e0fa1bbcdc304fe78f2ab88",
+            "type": "text",
+            "color": "text-customOrange",
+            "hoverColor": "text-customOrange",
+            "layout": "",
+            "size": "text-2xl",
+            "content": {
+              "ar": " العنوان",
+              "en": "Address ",
+              "tr": "Adres"
+            },
+            "weight": "font-lg",
+            "isLink": false,
+            "link": "",
+            "children": []
+          },
+          {
+            "id": "b81fc9ce356703b6ee6f0253",
+            "type": "text",
+            "color": "text-amber-900",
+            "hoverColor": "",
+            "layout": "",
+            "size": "",
+            "content": {
+              "ar": "علي كوشو ماه. شارع موستيكيمزاد. رقم: 28 فاتح-اسطنبول",
+              "en": " Ali Kuşçu mah. Müstakimzade sok. No:28  Fatih-istanbul",
+              "tr": " Ali Kuşçu mah. Müstakimzade sok. No:28  Fatih-istanbul"
+            },
+            "weight": "font-lg",
+            "isLink": false,
+            "link": "",
+            "children": []
+          },
+          {
+            "id": "17f6eafb2bf09c4e048837b3",
+            "type": "text",
+            "color": "text-customOrange",
+            "hoverColor": "",
+            "layout": "",
+            "size": "text-lg",
+            "content": {
+              "ar": "البريد الالكتروني",
+              "en": "E-mail",
+              "tr": "E-mail"
+            },
+            "weight": "font-lg",
+            "isLink": false,
+            "link": "",
+            "children": []
+          },
+          {
+            "id": "d2bc827a810fba2e0af00338",
+            "type": "text",
+            "color": "text-amber-900",
+            "hoverColor": "",
+            "layout": "",
+            "size": "",
+            "content": {
+              "ar": " info@nisaulaksa.org",
+              "en": " info@nisaulaksa.org",
+              "tr": " info@nisaulaksa.org"
+            },
+            "weight": "font-lg",
+            "isLink": false,
+            "link": "",
+            "children": []
+          },
+          {
+            "id": "fa082972835ed8bff52b41a5",
+            "type": "text",
+            "color": "text-customOrange",
+            "hoverColor": "",
+            "layout": "",
+            "size": "text-lg",
+            "content": {
+              "ar": "رقم الهاتف",
+              "en": "Phone Number",
+              "tr": "Telefon"
+            },
+            "weight": "font-lg",
+            "isLink": false,
+            "link": "",
+            "children": []
+          },
+          {
+            "id": "7d77222a6b8beea8dd7a9cba",
+            "type": "text",
+            "color": "text-amber-900",
+            "hoverColor": "",
+            "layout": "",
+            "size": "",
+            "content": {
+              "ar": "+905073131736",
+              "en": "+905073131736",
+              "tr": "+905073131736"
+            },
+            "weight": "font-lg",
+            "isLink": false,
+            "link": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,681 @@
+{
+  "title": {
+    "ar": " سياساتنا و شروط التبرعات",
+    "en": "Policies and Conditions",
+    "tr": "Politikalar ve Koşullar"
+  },
+  "category": "general",
+  "body": [
+    {
+      "id": "dee6b075532227f6a0dc7352",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "137045720cddb6c1b7399eba",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "text-customOrange",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": "المادة الأولى (1) - الأطراف",
+            "en": "Article 1 (1) - Parties",
+            "tr": "Madde 1 (1) - Taraflar"
+          },
+          "weight": "font-bold",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "dd7c3e4d0d786ce1fd797d64",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-lg",
+          "content": {
+            "ar": " المتبرع له",
+            "en": "His donor",
+            "tr": "Onun bağışçısı"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "a8efd9753f22ea49b3eebbb5",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "مؤسسة نساء الأقصى الدولية  ",
+            "en": "Al-Aqsa International Women's Foundation",
+            "tr": "Mescid-i Aksa Uluslararası Kadın Vakfı"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": [
+            {
+              "id": "9a4f290ba2b0044fc2133125",
+              "type": "text",
+              "color": "text-customOrange",
+              "hoverColor": "text-customOrange",
+              "layout": "",
+              "size": "",
+              "content": {
+                "ar": "الموقع الالكتروني",
+                "en": "Website",
+                "tr": "Web sitesi"
+              },
+              "weight": "font-lg",
+              "isLink": true,
+              "link": "https://www.nisaulaksa.org",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "f324386a6d46f163a4d86baf",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-lg",
+          "content": {
+            "ar": "المركز الرئيسي",
+            "en": "Main center",
+            "tr": "Ana merkez"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "04779e5400683ea2514cece5",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "سلطانتيب ماه. هذا ما تفعله. رقم 10 50. شقة يل إيشاني 13\nاسكودار/اسطنبول",
+            "en": "Sultantep mah. This is what you do. No. 10 50. Yal Ishani Apartment 13\nUskudar/Istanbul",
+            "tr": "Sultantepe mah. Yaptığın şey bu. No.10 50. Yal İşhanı Apartmanı 13\nÜsküdar/İstanbul"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "b7017c4a806aecb8ce2c35c0",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-lg",
+          "content": {
+            "ar": "البيانات التسجيلية",
+            "en": "Recording data",
+            "tr": "Veri kaydetme"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "f1809c858d559ea1146139aa",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "رقم التسجيل",
+            "en": "Registration number",
+            "tr": "Registration number"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "cc54daf6fe593ec83c1bedce",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": " الدائرة الضريبية",
+            "en": "Tax Department",
+            "tr": "Vergi Departmanı"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "f55eb5fcd374fbdaa27bd8ae",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "البريد الإلكتروني",
+            "en": "e-mail",
+            "tr": "e-posta"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": [
+            {
+              "id": "f568e20d82fe09411ad4193c",
+              "type": "text",
+              "color": "text-customOrange",
+              "hoverColor": "",
+              "layout": "",
+              "size": "text-base",
+              "content": {
+                "ar": " البريد الالكتروني",
+                "en": "E-Mail",
+                "tr": "e-posta"
+              },
+              "weight": "font-medium",
+              "isLink": true,
+              "link": "mailto://info@nisaulaksa.org",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "219f0663540aa7779dfc110d",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-lg",
+          "content": {
+            "ar": "المتبرع",
+            "en": "The donor",
+            "tr": "bağışçı"
+          },
+          "weight": "font-normal",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "d8a85fd5a2f4c5dce150c365",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "شخص طبيعي أو اعتباري يتبرع في قاعدة البيانات عبر ",
+            "en": "A natural or legal person donates to the database via",
+            "tr": "Gerçek veya tüzel kişi veri tabanına bağışta bulunur."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": [
+            {
+              "id": "693e1fbc3c3c58773c2a79b5",
+              "type": "text",
+              "color": "text-customOrange",
+              "hoverColor": "",
+              "layout": "",
+              "size": "",
+              "content": {
+                "ar": "الموقع الإلكتروني",
+                "en": "Website",
+                "tr": "Web sitesi"
+              },
+              "weight": "font-normal",
+              "isLink": true,
+              "link": "https://www.nisaulaksa.org",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "23c23a8049f4115af255c1cd",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-lg",
+          "content": {
+            "ar": " التاريخ",
+            "en": "date",
+            "tr": "tarih"
+          },
+          "weight": "font-normal",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "cc85c0eea00b2f95352f01fb",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "تاريخ ووقت قيام الجهة المتبرعة بإجراء عملية التبرع إلى www.nisaulaksa.org سيتم قبوله كتاريخ ووقت مسجل في قاعدة البيانات.",
+            "en": "The date and time the donor makes the donation to www.nisaulaksa.org will be accepted as the date and time recorded in the database.",
+            "tr": "Bağışçının www.nisaulaksa.org'a bağış yaptığı tarih ve saat, veri tabanına kaydedilen tarih ve saat olarak kabul edilecektir."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "cd1584778b58a500c828c834",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "745f79b31125ee8d733468f1",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": " المادة الثانية (2) - موضوع ونطاق الاتفاقية",
+            "en": "Article II (2) - Subject and scope of the agreement ",
+            "tr": "Madde II (2) - Anlaşmanın konusu ve kapsamı"
+          },
+          "weight": "font-bold",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "6c8d399eb2f3a89a5b682fdd",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "موضوع هذه الاتفاقية هو عملية تبرع ما بين الشخص والمؤسسة، وتقديم التبرع الإلكتروني من خلال الموقع \n[www. nisaulaksa.org]. تشكل عملية التبرع تحديد حقوق والتزامات الأطراف وفقًا لأحكام اللائحة المتعلقة بعقود التبرع عن بعد. لا تتحمل المؤسسة أي مسؤولية عن معاملة التبرع التي سيتم إجراؤها، ولا يتحمل البنك الذي يقدم خدمات نقاط البيع الافتراضية أي مسؤولية عن عملية التبرع.",
+            "en": "The subject of this agreement is the donation process between the person and the organization, and submitting the electronic donation through the website \n[www. nisaulaksa.org]. The donation process constitutes the determination of the rights and obligations of the parties in accordance with the provisions of the Regulations on Distance Donation Contracts. The Foundation does not bear any responsibility for the donation transaction that will be made, nor does the bank providing virtual point of sale services bear any responsibility for the donation process.",
+            "tr": "İşbu sözleşmenin konusu kişi ile kuruluş arasındaki bağış süreci ve bağışın internet sitesi üzerinden elektronik olarak iletilmesidir. \n[www. nisaulaksa.org]. Bağış süreci, Mesafeli Bağış Sözleşmelerine İlişkin Yönetmelik hükümleri uyarınca tarafların hak ve yükümlülüklerinin belirlenmesini oluşturur. Yapılacak bağış işlemine ilişkin Vakfın herhangi bir sorumluluğu bulunmadığı gibi, sanal satış noktası hizmeti veren banka da bağış sürecine ilişkin herhangi bir sorumluluk taşımamaktadır."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "df0b8907484fe7fc2e3c0123",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "af337f781cd468aa2c66b1cf",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": " المادة الثالثة (3)",
+            "en": "Article Three (3) ",
+            "tr": "Madde Üç (3)"
+          },
+          "weight": "font-bold",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "1610d74be2ef9edd8019f2c2",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "لا يمكن للأشخاص الذين تقل أعمارهم عن عام 18 إجراء التبرع من خلال  ",
+            "en": "Persons under the age of 18 cannot make a donation through",
+            "tr": "18 yaşını doldurmamış kişiler aracılığıyla bağış yapamazlar."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": [
+            {
+              "id": "7d99995544b95055d03bd99a",
+              "type": "text",
+              "color": "text-customOrange",
+              "hoverColor": "text-customOrange",
+              "layout": "",
+              "size": "text-base",
+              "content": {
+                "ar": "الموقع الالكتروني",
+                "en": "Website",
+                "tr": "Website"
+              },
+              "weight": "font-semibold",
+              "isLink": true,
+              "link": "/www. nisaulaksa.org",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21b19cd46cf757b06a9985bf",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "c55a66961dbd55bd872253a3",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": "  المادة الرابعة (4) - شروط الدفع",
+            "en": "Article Four (4) - Payment Terms ",
+            "tr": "Madde Dört (4) - Ödeme Koşulları"
+          },
+          "weight": "font-bold",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "05cbe461aa5e610870f51f12",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "يمكن للمتبرع وبموافقته ورضاه الكامل وضع المعلومات الخاصة به وبعملية التبرع للموقع [www. nisaulaksa.org]، ويقوم بعملية التبرع باستخدام أحد الخيارات التالية: بطاقات الائتمان المصرفية ذات الصلة، وبطاقات السحب الآلي، والتحويل المصرفي، والتحويل الإلكتروني، وتحويل العملات المحلية/الدولية أو الشيكات البنكية.",
+            "en": "The donor can, with his consent and full satisfaction, post information about himself and the donation process to the website [www. nisaulaksa.org], and makes the donation using one of the following options: relevant bank credit cards, debit cards, bank transfer, electronic transfer, local/international currency transfer or bank checks.",
+            "tr": "Bağışçı, kendi rızası ve tam memnuniyeti ile kendisi ve bağış süreci hakkında bilgileri web sitesinde [www. nisaulaksa.org] üzerinden bağış yapar ve ilgili banka kredi kartları, banka kartları, banka havalesi, elektronik transfer, yerel/uluslararası para transferi veya banka çeki seçeneklerinden birini kullanarak bağış yapar."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "cfb1d3b2429350ed7d203702",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "a766dea9b43254c63011a4a9",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": "  المادة الخامسة (5) - حق التراجع والانسحاب",
+            "en": "Article Five (5) - Right of withdrawal and withdrawal ",
+            "tr": "Madde Beş (5) - Cayma ve cayma hakkı"
+          },
+          "weight": "font-bold",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "6b336dd98a79baad5e6b2675",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "التبرع المقدم من المتبرع لا تحمله أي مسؤولية مدنية وجنائية وهو غير مضطر لتقديم أي مبرر لعملية التبرع. وله الحق في التراجع والانسحاب من عملية التبرع التي تم إجراؤها والتخلي عنها أو رفضها خلال سبعة أيام من تاريخ التبرع، ومن تاريخ استلام المؤسسة لإشعار الانسحاب/من المتبرع تتعهد المؤسسة على الفور في البدء بعملية استرداد الأموال التي تم التبرع بها من خلال [www. nisaulaksa.org] إذا كانت عملية الاسترداد تتطلب خصم نفقات من طرف ثالث شخص أو مؤسسة من المبلغ الذي سيتم استرداده (البنوك وما شابه... المؤسسات الوسيطة)، فإنه يتم خصمها واعادتها وفقًا لعملية استرداد الأموال من البنك الوسيط أو المؤسسة الوسيطة.",
+            "en": "The donation made by the donor does not burden him with any civil or criminal liability, and he is not obliged to provide any justification for the donation process. He has the right to withdraw, abandon, or reject the donation process that was made within seven days from the date of the donation, and from the date the Foundation receives the withdrawal notice from the donor, the Foundation undertakes immediately to begin the process of recovering the funds that were donated through [www. nisaulaksa.org] If the recovery process requires deducting expenses from a third party person or institution from the amount to be recovered (banks and the like... intermediary institutions), they are deducted and returned according to the process of recovering funds from the intermediary bank or intermediary institution.",
+            "tr": "Bağışçının yaptığı bağış kendisine herhangi bir hukuki veya cezai sorumluluk getirmez ve bağış işlemine ilişkin herhangi bir gerekçe sunmakla yükümlü değildir. Bağış tarihinden itibaren yedi gün içinde yapılan bağış sürecinden geri çekilme, vazgeçme veya reddetme hakkına sahiptir ve bağışçıdan geri çekilme bildiriminin Vakıf'a ulaştığı tarihten itibaren Vakıf, bağış sürecini derhal başlatmayı taahhüt eder. aracılığıyla bağışlanan fonların geri alınması [www. nisaulaksa.org] Tahsilat işlemi, tahsil edilecek tutardan üçüncü kişi veya kuruluştan (banka ve benzeri... aracı kurumlardan) alınacak masrafların düşülmesini gerektiriyorsa, bu tutarlar, tahsilat işlemine göre mahsup edilir ve iade edilir. aracı banka veya aracı kurum."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "480e33fc1d1f0643bb257218",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "e746fd571dc176d95162d800",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": "المادة السادسة (6) - أحكام عامة",
+            "en": "Article Six (6) - General Provisions ",
+            "tr": "Madde Altı (6) - Genel Hükümler"
+          },
+          "weight": "font-bold",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "d230b3d13c2d9b78806d6b87",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "في الحالات التي لم تكن موجودة ولم تكن متوقعة في وقت عملية التبرع، والتي تمت خارج سيطرة الأطراف، وجعلت من المستحيل على أحد الطرفين أو كليهما الوفاء جزئيًا أو كليًا بالتزاماتهم ومسؤولياتهم المفروضة بموجب هذه الاتفاقية أو الوفاء بها في الوقت المحدد والقوى القاهرة سيتم النظر فيها مثل (الكوارث الطبيعية، الحروب، الإرهاب، الانتفاضة، الأحكام التشريعية، المصادرة أو الإضراب، الإغلاق، الأعطال الكبيرة في مرافق الخدمة والاتصالات ...). أثناء استمرار القوة القاهرة لن يتحمل الطرفان أي مسؤوليات بسبب عدم قدرتهما على الوفاء بالتزاماتهما.",
+            "en": "In cases that did not exist and were not foreseen at the time of the donation process, which took place outside the control of the parties, and made it impossible for one or both parties to partially or completely fulfill their obligations and responsibilities imposed under this agreement or to fulfill them on time, force majeure will be considered as (Natural disasters, wars, terrorism, uprising, legislative rulings, confiscation or strike, lockout, major breakdowns in service and communications facilities...). During the continuation of force majeure, the parties will not bear any responsibilities due to their inability to fulfill their obligations.",
+            "tr": "Bağış sürecinde mevcut olmayan ve öngörülemeyen, tarafların kontrolü dışında gerçekleşen ve taraflardan birinin veya her ikisinin de işbu sözleşme kapsamında kendisine yüklenen yükümlülük ve sorumlulukları kısmen veya tamamen yerine getirmesini imkansız hale getiren haller veya bunların zamanında yerine getirilmesi için mücbir sebep (Doğal afetler, savaşlar, terör, ayaklanma, kanun hükmünde kararnameler, müsadere veya grev, lokavt, hizmet ve iletişim tesislerinde büyük arızalar...) olarak değerlendirilecektir. Mücbir sebebin devamı sırasında tarafların yükümlülüklerini yerine getirememeleri nedeniyle herhangi bir sorumluluk üstlenmeyecektir."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "1b779a63db6201a506dfc09e",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "5935fef53b6dc10b49c030b7",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-3xl",
+          "content": {
+            "ar": "  اتفاقية السرية وشروط الاسترداد والإلغاء",
+            "en": "Confidentiality Agreement and Refund and Cancellation Terms",
+            "tr": "Gizlilik Sözleşmesi ve İade ve İptal Koşulları"
+          },
+          "weight": "font-black",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "34dc3fd4afcbfeb8b5ad220b",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": " اتفاقية تقديم الخدمة، شروط الإلغاء والاسترداد، سياسة الخصوصية والأمان\n اتفاقية تقديم الخدمة",
+            "en": "Service provision agreement, cancellation and refund terms, privacy and security policy\n Service provision agreement",
+            "tr": "Hizmet sağlama sözleşmesi, iptal ve iade koşulları, gizlilik ve güvenlik politikası\n Hizmet sağlama sözleşmesi"
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "eebd107653c20931e783fd2b",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "يمكن للمتبرع من التبرع بأي مبلغ باستخدام خدمة نقاط البيع الافتراضية التي يقدمها البنك عبر الموقع الإلكتروني [www. nisaulaksa.org].\nبموجب قانون الديون ، يمكن للمتبرع، إذا تم تحديد الشروط المتعلقة برد الأموال في المواد الأخرى ذات الصلة، طلب إعادة التبرع الذي قدمه من خلال العودة من معاملة التبرع. ويجب عليه الإخطار بالتبرع المعني الذي يريد إعادته بطريقة واضحة ومفهومة (التاريخ، مبلغ التبرع، الاسم والمعلومات الأخرى) وتحديد المقر الرئيسي لمؤسسة  نساء الأقصى \nوإرسالها عن طريق البريد، بالإضافة إلى وجوب إرسالها إلى عنوان البريد الإلكتروني [www. nisaulaksa.org]. خلاف ذلك، فإن إشعار السحب الذي لم يصل إلى العناوين السابقة للمؤسسة لن يكون له أي صلاحية ولن يتم رد التبرع.",
+            "en": "The donor can donate any amount using the virtual point of sale service provided by the bank via the website [www. nisaulaksa.org].\nUnder the Debt Law, the donor can, if the conditions relating to the refund are specified in other relevant articles, request the return of the donation he has made by returning from the donation transaction. He must notify the relevant donation that he wants to return in a clear and understandable way (date, donation amount, name and other information) and specify the main headquarters of the Al-Aqsa Women’s Foundation. \nAnd send it by mail, in addition to sending it to the e-mail address [www. nisaulaksa.org]. Otherwise, the withdrawal notice that does not reach the previous addresses of the Foundation will have no validity and the donation will not be refunded.",
+            "tr": "Bağışçı, bankanın web sitesi [www. nisaulaksa.org].\nBorç Kanunu'na göre bağışçı, ilgili diğer maddelerde iadeye ilişkin şartların belirtilmesi halinde, bağış işleminden dönerek yaptığı bağışın iadesini talep edebilir. İade etmek istediğini ilgili bağışçıya açık ve anlaşılır bir şekilde (tarih, bağış miktarı, isim ve diğer bilgiler) bildirmeli ve Mescid-i Aksa Kadın Vakfı'nın ana merkezini belirtmelidir. \nVe e-posta adresine göndermenin yanı sıra postayla da gönderin [www. nisaulaksa.org]. Aksi takdirde Vakfın daha önceki adreslerine ulaşmayan cayma bildiriminin geçerliliği kalmayacak ve yapılan bağış iade edilmeyecektir."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "93d5d621e6026fff1c752b58",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "لا تتحمل المؤسسة أي مسؤولية عن عملية التبرع التي سيتم إجراؤها، ولا يتحمل البنك الذي يقدم خدمات نقاط البيع الافتراضية أي مسؤولية أيضًا.\n محكمة اسطنبول مخولة في النزاعات التي ستنشأ عن عمليات التبرع.",
+            "en": "The Foundation does not bear any responsibility for the donation process that will be made, and the bank that provides virtual point of sale services does not bear any responsibility either.\n The Istanbul Court is authorized to resolve disputes that will arise from donation operations.",
+            "tr": "Yapılacak bağış işlemine ilişkin Vakıf herhangi bir sorumluluk taşımadığı gibi, sanal satış noktası hizmeti veren bankanın da herhangi bir sorumluluğu bulunmamaktadır.\n Bağış işlemlerinden doğacak uyuşmazlıkların çözümünde İstanbul Mahkemesi yetkilidir."
+          },
+          "weight": "font-normal",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "d3b9da157546e3f7efe3c810",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "4fa344d17a94badbe7e22ad1",
+          "type": "text",
+          "color": "text-customPink",
+          "hoverColor": "",
+          "layout": "",
+          "size": "text-2xl",
+          "content": {
+            "ar": "سياسة الخصوصية والأمان",
+            "en": "Privacy and security policy",
+            "tr": "Gizlilik ve güvenlik politikası"
+          },
+          "weight": "font-semibold",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "aad55f3319d351f70ecc89d7",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "يطلب منك الموقع [www. nisaulaksa.org]. معلوماتك الشخصية مثل الاسم الأول واسم العائلة والبريد الإلكتروني ورقم الهاتف، بالإضافة إلى معلومات بطاقة الائتمان التي ستستخدمها في عملية التبرع، ومعلومات حول عملية التبرع. يتم إرسال هذه المعلومات إلى البنك من أجل تقديم تبرعك وطلبه لضمان الأمان الفعال لمعلومات المتبرع.",
+            "en": "The website asks you [www. nisaulaksa.org]. Your personal information, such as first and last name, email, and phone number, in addition to the credit card information that you will use in the donation process, and information about the donation process. This information is sent to the bank in order to submit and request your donation to ensure effective security of donor information.",
+            "tr": "Web sitesi sizden [www. nisaulaksa.org]. Bağış sürecinde kullanacağınız kredi kartı bilgilerinin yanı sıra ad-soyad, e-posta, telefon numarası gibi kişisel bilgileriniz ve bağış sürecine ilişkin bilgiler. Bu bilgiler, bağışçı bilgilerinin etkili bir şekilde güvenliğinin sağlanması amacıyla bağışınızı göndermek ve talep etmek amacıyla bankaya gönderilir."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "5f60bce6a53f43d5ff3512b8",
+          "type": "text",
+          "color": "text-customOrange",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": " الإلغاء والاسترداد",
+            "en": "Cancellation and refund",
+            "tr": "İptal ve iade"
+          },
+          "weight": "font-normal",
+          "isLink": false,
+          "link": "",
+          "children": []
+        },
+        {
+          "id": "0dae614cc039471c538922d1",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": "التبرع المقدم من المتبرع لا تحمله أي مسؤولية مدنية وجنائية وهو غير مضطر لتقديم أي مبرر لعملية التبرع، وله الحق في التراجع والانسحاب من عملية التبرع التي تم إجراؤها والتخلي عنها أو رفضها خلال سبعة أيام من تاريخ التبرع، ومن تاريخ استلام المؤسسة لإشعار الانسحاب/من المتبرع تتعهد المؤسسة على الفور في البدء بعملية استرداد الأموال التي تم التبرع بها من خلال [www. nisaulaksa.org]. إذا كانت عملية الاسترداد تتطلب خصم نفقات من طرف ثالث شخص أو مؤسسة من المبلغ الذي سيتم استرداده (البنوك وما شابه... المؤسسات الوسيطة)، فإنه يتم خصمها واعادتها وفقاً لعملية استرداد الأموال من البنك الوسيط أو المؤسسة الوسيطة..",
+            "en": "The donation made by the donor does not bear any civil or criminal liability and he is not obliged to provide any justification for the donation process. He has the right to withdraw and withdraw from the donation process that was made and abandon or reject it within seven days from the date of the donation, and from the date the organization receives the withdrawal notice from the donor. The Foundation undertakes to immediately begin the process of recovering the funds donated through [www. nisaulaksa.org]. If the recovery process requires deducting expenses from a third party person or institution from the amount to be recovered (banks and the like... intermediary institutions), they are deducted and returned in accordance with the process of recovering funds from the intermediary bank or intermediary institution..",
+            "tr": "Bağışçının yaptığı bağışın hiçbir hukuki veya cezai sorumluluğu yoktur ve bağış işlemine ilişkin herhangi bir gerekçe sunmakla yükümlü değildir. Bağışın yapıldığı tarihten ve bağışçıdan geri çekilme bildiriminin kuruluşa ulaştığı tarihten itibaren yedi gün içinde yapılan bağış işleminden cayma, vazgeçme veya reddetme hakkına sahiptir. Vakıf, [www. nisaulaksa.org]. Geri kazanım süreci, geri kazanılacak tutardan üçüncü kişi veya kuruluştan (banka ve benzeri... aracı kurumlardan) kaynaklanan masrafların düşülmesini gerektiriyorsa, aracı bankadan veya aracı bankadan fonların geri alınması sürecine uygun olarak kesinti yapılır ve iade edilir. aracı kurum.."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

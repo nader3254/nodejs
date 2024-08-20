@@ -1,0 +1,28 @@
+{
+  "category": "home",
+  "title": {
+    "ar": "حملاتنا",
+    "en": "campagins",
+    "tr": "campagins"
+  },
+  "body": [
+    {
+      "id": "c50b8ae9e29fc45da575d0eb",
+      "title": "ليكن لك سهم في كل مشروع من مشاريع القدس",
+      "details": "ساهم معنا لإيصال باقة صمود لأهلنا المقدسين",
+      "img": "https://ihyamiras.org/ar/upload/arsiv/opt-Project-Cover-Web-Ramadan-2024-Packet-AR-C70EL1JQMIYH99GYU487.jpg"
+    },
+    {
+      "id": "5182fb5a87e88d84b1c5d4b8",
+      "title": " أطعم أطفال غزة",
+      "details": "ساهم في اطعام اطفال غزة",
+      "img": "https://ihyamiras.org/ar/upload/arsiv/opt-Post-Pics-Gazza-2023-02-04-CXUFDZH8VOS86CBWM951.jpg"
+    },
+    {
+      "id": "b9c157a5c7e2bbca2eb02a64",
+      "title": "اسعد اطفال غزة",
+      "details": "ساهم في اسعاد اطفال غزة",
+      "img": "https://ihyamiras.org/ar/upload/arsiv/opt-Post-Pics-Gazza-2023-02-04-CXUFDZH8VOS86CBWM951.jpg"
+    }
+  ]
+}

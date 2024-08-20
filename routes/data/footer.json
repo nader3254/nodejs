@@ -1,0 +1,78 @@
+{
+  "category": "home",
+  "body": {},
+  "copyrights": "footer.copyrights",
+  "content": [
+    {
+      "title": "footer.main.title",
+      "links": [
+        {
+          "title": "footer.main.home",
+          "route": "/aboutus#vision"
+        },
+        {
+          "title": "footer.main.org",
+          "route": "/aboutus#fields"
+        },
+        {
+          "title": "footer.main.projects",
+          "route": "/projects"
+        },
+        {
+          "title": "footer.main.contact",
+          "route": "/contactus"
+        }
+      ]
+    },
+    {
+      "title": "footer.donation.title",
+      "links": [
+        {
+          "title": "footer.donation.sacrifies",
+          "route": "/project?p=kees"
+        },
+        {
+          "title": "footer.donation.support",
+          "route": "/project?p=orphins"
+        },
+        {
+          "title": "footer.donation.sos_palestine",
+          "route": "/project?p=breakfast"
+        },
+        {
+          "title": "footer.donation.fate_day",
+          "route": "/project?p=basket"
+        },
+        {
+          "title": "footer.donation.winter",
+          "route": "/project?p=eid"
+        },
+        {
+          "title": "footer.donation.sos_somalia",
+          "route": "/project?p=breakfast"
+        }
+      ]
+    },
+    {
+      "title": "footer.content.title",
+      "links": [
+        {
+          "title": "footer.content.news",
+          "route": ""
+        },
+        {
+          "title": "footer.content.site",
+          "route": ""
+        },
+        {
+          "title": "footer.content.posts",
+          "route": ""
+        },
+        {
+          "title": "footer.content.photos",
+          "route": ""
+        }
+      ]
+    }
+  ]
+}

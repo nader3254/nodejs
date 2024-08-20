@@ -1,0 +1,15 @@
+{
+  "category": "home",
+  "body": [
+    {
+      "title": "First card",
+      "details": "dtails",
+      "src": "https://www.youtube.com/embed/jDyrvGFqWDI"
+    },
+    {
+      "title": "Second card",
+      "details": "dtails",
+      "src": "https://www.youtube.com/embed/Fw8qjiraCMw"
+    }
+  ]
+}

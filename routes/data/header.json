@@ -1,0 +1,214 @@
+{
+  "category": "home",
+  "body": {},
+  "navlinks": [
+    {
+      "title": {
+        "ar": "الرئيسية",
+        "en": "Home",
+        "tr": "Ana Sayfa"
+      },
+      "route": "/",
+      "sublinks": []
+    },
+    {
+      "title": {
+        "ar": "من نحن",
+        "en": "About Us",
+        "tr": "Hakkımızda"
+      },
+      "route": "/aboutus",
+      "sublinks": [
+        {
+          "title": {
+            "ar": "رؤيتنا",
+            "en": "Our Vision",
+            "tr": "Vizyonumuz"
+          },
+          "route": "/aboutus#vision"
+        },
+        {
+          "title": {
+            "ar": "رسالتنا",
+            "en": "Our Message",
+            "tr": "Mesajımız"
+          },
+          "route": "/aboutus#message"
+        },
+        {
+          "title": {
+            "ar": "مهامنا",
+            "en": "Our Missions",
+            "tr": "Misyonlarımız"
+          },
+          "route": "/aboutus#mission"
+        },
+        {
+          "title": {
+            "ar": "مجالاتنا",
+            "en": "Our Fields",
+            "tr": "Alanlarımız"
+          },
+          "route": "/aboutus#fields"
+        },
+        {
+          "title": {
+            "ar": "قيمنا",
+            "en": "Our Values",
+            "tr": "Değerlerimiz"
+          },
+          "route": "/aboutus#values"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ar": "مشاريعنا",
+        "en": "Projects",
+        "tr": "Projeler"
+      },
+      "route": "/projects",
+      "sublinks": [
+        {
+          "title": {
+            "ar": "كفالة اليتيم",
+            "en": "Orphans Sponsorship",
+            "tr": "Yetim Sponsoru"
+          },
+          "route": "/project?p=kfaletyteem"
+        },
+        {
+          "title": {
+            "ar": "إفطار صائم",
+            "en": "Fasting Person's Iftar",
+            "tr": "Oruçlulara İftar"
+          },
+          "route": "/project?p=iftarsaem"
+        },
+        {
+          "title": {
+            "ar": "سلة مقدسية",
+            "en": "Al-Quds Basket",
+            "tr": "Kudüs Sepeti"
+          },
+          "route": "/project?p=slamkdseya"
+        },
+        {
+          "title": {
+            "ar": "كسوة العيد",
+            "en": "Eid Clothing",
+            "tr": "Bayram Elbisesi"
+          },
+          "route": "/project?p=kswteid"
+        },
+        {
+          "title": {
+            "ar": "زكاة الفطر",
+            "en": "Zakat al-Fitr",
+            "tr": "Fitre Zekatı"
+          },
+          "route": "/project?p=zkatfitr"
+        },
+        {
+          "title": {
+            "ar": "كيس الطحين",
+            "en": "Flour Bag",
+            "tr": "Un Torbası"
+          },
+          "route": "/project?p=keestheen"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ar": "المؤتمرات",
+        "en": "Conferences",
+        "tr": "Konferanslar"
+      },
+      "route": "/events",
+      "sublinks": [
+        {
+          "title": {
+            "ar": "الحدث 1",
+            "en": "Event 1",
+            "tr": "Etkinlik 1"
+          },
+          "route": "/events#event1"
+        },
+        {
+          "title": {
+            "ar": "الحدث 2",
+            "en": "Event 2",
+            "tr": "Etkinlik 2"
+          },
+          "route": "/events#event2"
+        },
+        {
+          "title": {
+            "ar": "الأعضاء",
+            "en": "Members",
+            "tr": "Üyeler"
+          },
+          "route": "/events#members"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ar": "كلمة الرئيس",
+        "en": "President's Word",
+        "tr": "Başkanın Sözü"
+      },
+      "route": "/presedentword",
+      "sublinks": []
+    },
+    {
+      "title": {
+        "ar": "السياسات",
+        "en": "Policies",
+        "tr": "Politikalar"
+      },
+      "route": "/policies",
+      "sublinks": []
+    },
+    {
+      "title": {
+        "ar": "اتصل بنا",
+        "en": "Contact Us",
+        "tr": "Bize Ulaşın"
+      },
+      "route": "/contactus",
+      "sublinks": []
+    }
+  ],
+  "banner1": {
+    "followus": {
+      "title": {
+        "ar": "تابعنا",
+        "en": "Follow Us",
+        "tr": "Bizi Takip Edin"
+      },
+      "social": {
+        "facebook": "https://web.facebook.com",
+        "instagram": "https://www.instagram.com/",
+        "youtube": "https://www.youtube.com/"
+      }
+    },
+    "bank": {
+      "title": {
+        "ar": "حساباتنا البنكية",
+        "en": "Bank Accounts",
+        "tr": "Banka Hesapları"
+      },
+      "route": "/bank-accounts"
+    },
+    "phone": {
+      "title": {
+        "ar": "5073131736",
+        "en": "5073131736",
+        "tr": "5073131736"
+      },
+      "route": ""
+    }
+  }
+}

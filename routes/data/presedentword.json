@@ -1,0 +1,36 @@
+{
+  "title": {
+    "ar": "كلمة رئيس مجلس الادارة",
+    "en": "Chairman Word",
+    "tr": "Başkan Sözü"
+  },
+  "category": "general",
+  "body": [
+    {
+      "id": "64454960d1bff85cf8f26aee",
+      "type": "simple-article",
+      "background": "/images/kampanya_bg.png",
+      "layout": "",
+      "spacing": "space-y-2",
+      "children": [
+        {
+          "id": "9abaede75eb149176b7afbda",
+          "type": "text",
+          "color": "text-amber-900",
+          "hoverColor": "",
+          "layout": "",
+          "size": "",
+          "content": {
+            "ar": " تتجه أنظارنا نحو القدس مدينة السلام العالمي، والمسجد الأقصى جوهرة العالم الإسلامي والعربي\n في ظل الأحداث المتسارعة التي تشهدها ساحة الأقصى وماحولها، فإننا نتسابق لاجتماع الأمة والعالم الإنساني لحماية المقدسات الإسلامية من التهويد و التقسيم  من خلال دعم صمود المرأة المقدسية لإبراز دورها في كل المجالات ومواجهة سياسيات المحتل الغاشمة للحفاظ على الهوية الإسلامية للقدس والمسجد الأقصى ، في سياق الخروج من ساحة التنظير فقط إلى ساحة  العمل والتنفيذ  لتكون مؤسسة نساء الأقصى نافذة الإنسان الحر نحو الأقصى وحاضنة المرأة العالمية على صعيد الرؤية الاستراتيجية  لتطوير مجالات وسبل دعم المرآة المقدسية في إطار العمل الإبداعي و الدعم الدائم و المؤثر . \n.",
+            "en": "Our eyes turn to Jerusalem, the city of world peace, and Al-Aqsa Mosque, the jewel of the Islamic and Arab world\n In light of the accelerating events taking place in Al-Aqsa Square and its environs, we are racing to unite the nation and the human world to protect Islamic holy sites from Judaization and division by supporting the steadfastness of Jerusalemite women to highlight their role in all fields and confront the brutal policies of the occupier to preserve the Islamic identity of Jerusalem and Al-Aqsa Mosque, in the context of leaving The arena of theorizing only to the arena of action and implementation, so that the Al-Aqsa Women’s Foundation will be the free human being’s window towards Al-Aqsa and the global incubator for women in terms of the strategic vision for developing areas and means of supporting Jerusalemite women within the framework of creative work and permanent and influential support. \n.",
+            "tr": "Gözlerimiz dünya barışının şehri Kudüs'e ve İslam ve Arap dünyasının mücevheri Mescid-i Aksa'ya çevriliyor\n Mescid-i Aksa Meydanı ve çevresinde hızlanan olaylar ışığında, Kudüslü kadınların kararlılığını destekleyerek İslam'ın kutsal mekanlarını Yahudileşmeden ve bölünmeden korumak için milleti ve insan dünyasını birleştirmek için yarışıyoruz. Teorileştirme alanını sadece eylem ve uygulama alanına bırakmak bağlamında işgalcinin Kudüs ve Mescid-i Aksa'nın İslami kimliğini korumaya yönelik acımasız politikalarıyla yüzleşin ve Mescid-i Aksa Kadın Vakfı'nın yaratıcı çalışma ve kalıcı ve etkili destek çerçevesinde Kudüslü kadınları destekleme araçları ve alanları geliştirmeye yönelik stratejik vizyon açısından özgür insanın Mescid-i Aksa'ya açılan penceresi ve kadınlar için küresel kuluçka merkezi. \n."
+          },
+          "weight": "font-lg",
+          "isLink": false,
+          "link": "",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

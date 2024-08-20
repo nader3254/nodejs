@@ -1,0 +1,21 @@
+{
+  "category": "home",
+  "body": [
+    {
+      "id": "92987e6d69ec05587b60a75b",
+      "type": "timeline",
+      "title": {
+        "ar": "عنوان المخطط",
+        "en": "TimeLine Title",
+        "tr": "TimeLine Title in turkish"
+      },
+      "data": [
+        {
+          "ar": "الانجاز الاول",
+          "en": "progress1",
+          "tr": "progress1 in turkish"
+        }
+      ]
+    }
+  ]
+}
